@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td>Package</td>
-<td>[https://www.npmjs.org/package/gulp-uudpend](https://www.npmjs.org/package/gulp-uudpend "npm")</td>
+<td>https://www.npmjs.org/package/gulp-uudpend</td>
 </tr>
 </table>
 
