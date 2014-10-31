@@ -1,6 +1,6 @@
 {
   "name": "gulp-uudpend",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Prints out unused AMD dependencies",
   "main": "./src/index.js",
   "scripts": {
@@ -16,5 +16,10 @@
   },
   "keywords": [
     "gulpplugin"
-  ]
+  ],
+  "repository" :
+  { 
+    "type" : "git", 
+    "url" : "http://github.com:tobiasb/uudpend.git"
+  }
 }
